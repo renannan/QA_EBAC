@@ -1,2 +1,2 @@
 # QA_EBAC
-Software Quality
+Software Quality - atividades.
